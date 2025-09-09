@@ -4,8 +4,8 @@
     "iconName": "tech.jpg",
     "terminalID": "11.152.9.6",
     "defaultUser": {
-        "userId": "Vampyre",
+        "userId": "userId",
         "password": "883882",
-        "userName": "privateConnection"
+        "userName": "Vampyre"
     }
 }
